@@ -19,12 +19,15 @@
 To analyze the cost structure and profitability of a food delivery service using a dataset of 1,000 food orders.
 The goal is to identify strategic opportunities to optimize costs and improve overall profitability.
 
+![food orders](https://github.com/user-attachments/assets/eaca8e55-7da5-4696-a976-987779e9db0f)
+
 ### Data source
 Food Ordes: The primary dataset used for the analysis is the 'food_orders.csv' file containing detail information about each sales.
 
 ### Tools
 - Microsoft Excel Data Inspection by direct observation.
 - PostgresSQL ( Data Analysis and Cleaning).
+- Power Bi Reporting
 
 ### Data cleaning
 In the initial data preparation phase, i performed the following task
